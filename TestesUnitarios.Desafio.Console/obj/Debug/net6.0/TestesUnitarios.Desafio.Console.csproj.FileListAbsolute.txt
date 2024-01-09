@@ -1,0 +1,14 @@
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.exe
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.deps.json
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\refint\TestesUnitarios.Desafio.Console.dll
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+c:\trilha\trilha-net-testes-unitarios-desafio-main\trilha-net-testes-unitarios-desafio-main\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\ref\TestesUnitarios.Desafio.Console.dll
